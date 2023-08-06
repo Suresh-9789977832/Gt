@@ -11,7 +11,7 @@ function Carosel() {
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src='/images/pic.jpg' class="d-block w-100" alt="..."/>
+      <img src='/images/img-3.jpg' class="d-block w-100" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
         {/* <p>Some representative placeholder content for the first slide.</p> */}
@@ -25,7 +25,7 @@ function Carosel() {
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/img-3.jpg" class="d-block w-100" alt="..."/>
+      <img src="/images/img-2.jpg" class="d-block w-100" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         {/* <p>Some representative placeholder content for the third slide.</p> */}
