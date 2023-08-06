@@ -53,7 +53,7 @@ function Card() {
           <img src='/images/Gt-tour-.jpeg' className='package'/>
         </div>
 
-    </div><br/><br/>
+    </div><br/> <br/>
    </>
   )
 }

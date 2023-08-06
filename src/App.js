@@ -5,7 +5,7 @@ import Navbar from "./Components/Navbar"
 import Popular from "./Popular/Popular";
 
 function App() {
-  return <>
+  return  <>
 
   <div className="main-box">
   <Navbar/>

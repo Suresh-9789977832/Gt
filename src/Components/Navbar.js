@@ -29,7 +29,7 @@ function Navbar() {
                 <li>CONTACT</li>
             </ul>
 
-            <p className='num'>+91 9 3 4 4 8 9 0 1 3 3</p>
+            <p className='num'>+91 9 3 4 4 8 9 0 1 3 3 </p>
         </nav>
   </>
 }

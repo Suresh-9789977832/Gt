@@ -19,7 +19,6 @@
     align-items: center;
 }
 .nav-links, li{
-    /* margin: 0 0.6rem 0 1rem; */
     gap:1.8rem;
     padding-left:0rem;
     font-weight: 500;
